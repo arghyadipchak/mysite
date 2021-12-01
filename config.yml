@@ -1,0 +1,57 @@
+baseurl: https://arghyac.com/
+languageCode: en-us
+theme: terminal
+paginate: 5
+params:
+  contentTypeName: posts
+  themeColor: green # [orange, blue, red, green, pink]
+  showMenuItems: 5
+  showLanguageSelector: false
+  fullWidthTheme: false
+  centerTheme: true
+  autoCover: true
+  showLastUpdated: false
+  # favicon: favicon.ico
+  # updatedDatePrefix: Updated
+  # oneHeadingSize: false
+languages:
+  en:
+    languageName: English
+    title: ArghyaDip
+    # subtitle: ''
+    # owner: ''
+    # keywords: ''
+    copyright: © 2021 Arghyadip Chakraborty
+    menuMore: Show more
+    readMore: Read more
+    readOtherPosts: Read other posts
+    newerPosts: Newer posts
+    olderPosts: Older posts
+    missingContentMessage: Page not found...
+    missingBackButtonLabel: Back to home page
+    params:
+      logo:
+        logoText: arghyadipchak
+        logoHomeLink: /
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
+          weight: 1
+        - identifier: portfolio
+          name: Portfolio
+          url: /portfolio
+          weight: 2
+        - identifier: posts
+          name: Posts
+          url: /posts
+          weight: 3
+        - identifier: projects
+          name: Projects
+          url: /projects
+          weight: 4
+        - identifier: homelab
+          name: HomeLab
+          url: /homelab
+          weight: 5
