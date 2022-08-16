@@ -1,6 +1,6 @@
 ---
 title: HomeLab
-date: 2021-12-01
+date: 2022-08-16
 ---
 
 # My Rig
@@ -8,11 +8,12 @@ date: 2021-12-01
 **Lenovo Ideapad 330-15IKB:**\
 &nbsp;&nbsp;Processor &nbsp;&nbsp;&nbsp;&nbsp;: Intel i5-8250U\
 &nbsp;&nbsp;Memory &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 8GB\
+&nbsp;&nbsp;SSD &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 480GB\
 &nbsp;&nbsp;Hard Disk &nbsp;&nbsp;&nbsp;&nbsp;: 1TB\
 &nbsp;&nbsp;Graphics Card : 2GB NVIDIA GeForce MX150
 
 **Peripherals:**\
-&nbsp;&nbsp;Mouse &nbsp;&nbsp;&nbsp;&nbsp;: Redgear A-20\
+&nbsp;&nbsp;Mouse &nbsp;&nbsp;&nbsp;&nbsp;: Logitech G304\
 &nbsp;&nbsp;Keyboard &nbsp;: Royal Kludge RKG68\
 &nbsp;&nbsp;Headphone : HyperX Cloud Core 7.1
 
@@ -20,10 +21,9 @@ date: 2021-12-01
 
 # My Desktop
 
-- Dual Boot : Manjaro Cinnamon + Windows 10 (only for gaming)
+- Dual Boot : Arch Linux (Cinnamon DE) + Windows 10 (for games)
+- IDE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Visual Studio Code
 - Terminal &nbsp;: Alacritty + tmux + zsh
-- IDE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: VSCode
-- Browser &nbsp;&nbsp;: Vivaldi
 - Theme &nbsp;&nbsp;&nbsp;&nbsp;: Dracula
 
 ![My Sleek Desktop](/img/hlab-desktop.png "My Desktop")
